@@ -1,0 +1,2 @@
+D:\LearnOpenGL\YoutubeOpenGL\x64\Debug\YoutubeOpenGL.exe
+D:\Github\LearnOpenGL\YoutubeOpenGL\x64\Debug\YoutubeOpenGL.exe
