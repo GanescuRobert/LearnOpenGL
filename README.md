@@ -8,6 +8,8 @@
 | 4.  | [Index Buffer](https://www.youtube.com/watch?v=KG9ZXKaJWwY&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=4) |
 | 5.  | [Organizing](https://www.youtube.com/watch?v=greXpRqCTKs&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=5)   |
 | 6.  | [Shaders](https://www.youtube.com/watch?v=YaiSvKTOeRg&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=6)      |
+| 7.  | [Textures](https://www.youtube.com/watch?v=u-00hjlfMKc&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=7)     |
+| 8.  | [Going 3D](https://www.youtube.com/watch?v=HiCVXEkkSK4&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=8)     |
 
 ## References
 
