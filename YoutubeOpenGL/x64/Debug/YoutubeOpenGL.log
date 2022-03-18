@@ -1,2 +1,12 @@
-﻿  Main.cpp
+﻿  Camera.cpp
+  EBO.cpp
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+D:\Github\LearnOpenGL\YoutubeOpenGL\VAO.cpp(9,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
   YoutubeOpenGL.vcxproj -> D:\Github\LearnOpenGL\YoutubeOpenGL\x64\Debug\YoutubeOpenGL.exe

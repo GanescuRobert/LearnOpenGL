@@ -10,6 +10,7 @@
 | 6.  | [Shaders](https://www.youtube.com/watch?v=YaiSvKTOeRg&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=6)      |
 | 7.  | [Textures](https://www.youtube.com/watch?v=u-00hjlfMKc&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=7)     |
 | 8.  | [Going 3D](https://www.youtube.com/watch?v=HiCVXEkkSK4&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=8)     |
+| 9.  | [Camera] (https://www.youtube.com/watch?v=86_pQCKOIPk&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=9)      |
 
 ## References
 
