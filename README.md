@@ -14,6 +14,7 @@
 | 10. | [Lighting](https://www.youtube.com/watch?v=ZbszezwNSZU&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=10)       |
 | 11. | [Specular Maps](https://www.youtube.com/watch?v=JRbOKfS2Mek&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=11)  |
 | 12. | [Types of Light](https://www.youtube.com/watch?v=JB4d1yXZ-yA&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=12) |
+| 13. | [Mesh Class](https://www.youtube.com/watch?v=NUZF_5RKfS4&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=13)     |
 
 ## References
 
